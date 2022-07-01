@@ -1,3 +1,7 @@
+This is a React based Website. This website shows the News around the world with the help of API.
+In this website a user can fetch the News category wise and after clicking the read more more button bellow the card user, can redirect to the full artical about the News
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
